@@ -1,21 +1,17 @@
 <header>
   <!-- Nav Bar -->
-  <nav id="navbar"
-    class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}">
+  <nav id="navbar" class="navbar navbar-light navbar-expand-sm mask-custom {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}">
     <div class="container px-md-3">
-      <a class="navbar-brand mt-2 mt-lg-0" href="#">
+      <a class="navbar-brand mt-2 mt-lg-0" href="{{ '/' | relative_url }}">
         <img src="{{ '/assets/img/sme-logo-notext.png' | relative_url }}" height="40" alt="SME Logo" loading="lazy" />
       </a>
       <!-- Navbar Toggle -->
-      <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav"
-        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <button class="navbar-toggler collapsed ml-auto" type="button" data-mdb-toggle="collapse" data-mdb-target="#navbarSupportedContent" aria-controls="#navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar top-bar"></span>
-        <span class="icon-bar middle-bar"></span>
-        <span class="icon-bar bottom-bar"></span>
+        <i class="fas fa-bars"></i>
       </button>
 
-      <div class="collapse navbar-collapse text-right" id="navbarNav">
+      <div class="collapse navbar-collapse text-right" id="navbarSupportedContent">
         <ul class="navbar-nav ml-auto flex-nowrap">
           {%- for page in site.pages -%} {% if page.permalink == '/' %} {%
           assign about_title = page.title %} {% endif %} {% endfor %}

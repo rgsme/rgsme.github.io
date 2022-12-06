@@ -10,7 +10,7 @@
 {%- endif -%}
 {%- if site.enable_panelbear_analytics -%}
   <!-- Panelbear Analytics - We respect your privacy -->
-  <script async src="https://cdn.panelbear.com/analytics.js?site={{site.panelbear_analytics}}"></script>
+  <script async src="https://cdn.panelbear.com/analytics.js?site={{site.panelbear_analytics | strip}}"></script>
   <script>
     window.panelbear = window.panelbear || function() { (window.panelbear.q = window.panelbear.q || []).push(arguments); };
     panelbear('config', { site: '{{site.panelbear_analytics}}' });

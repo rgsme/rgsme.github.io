@@ -1,0 +1,48 @@
+{%- assign img_path = include.path | remove: ".jpg" | remove: ".jpeg" | remove: ".png" | remove: ".tiff" -%}
+{% if site.imagemagick.enabled %}
+{% for i in site.imagemagick.widths -%}
+  <source 
+    class="responsive-img-srcset"
+    media="(max-width: {{ i }}px)" 
+    srcset="{{ img_path | relative_url }}-{{ i }}.webp"
+  />
+{% endfor -%}
+{% endif %}
+
+<div class="card mb-3" style=" background: linear-gradient(to top, rgba(179,193,255,0.75), rgba(244,47,47,0.75)); ">
+  <div class="row g-0">
+    {% if include.path %}
+    {% unless include.figureright %}
+    <div class="col-md-6">
+      <img
+        src="{{ include.path | relative_url }}"
+        {% if include.alt %}alt="{{ include.alt }}"{% endif %} 
+        class="img-fluid rounded-start"
+      />
+    </div>
+    {% endunless %}
+    {% endif %}
+    <div class="col-md-6">
+      <div class="card-body">
+      {% if include.title %}<h5 class="card-title">{{ include.title }}</h5>{% endif %}
+      {% if include.text %}
+        <p class="card-text">
+          {{ include.btntext }}
+        </p>
+      {% endif %}
+        {% if include.btntext %}<a href="{{ include.btnurl | relative_url }}" class="btn btn-dark">{{ include.btntext }}</a>{% endif %}
+      </div>
+    </div>
+    {% if include.path %}
+    {% if include.figureright %}
+    <div class="col-md-6">
+      <img
+        src="{{ include.path | relative_url }}"
+        {% if include.alt %}alt="{{ include.alt }}"{% endif %} 
+        class="img-fluid rounded-end"
+      />
+    </div>
+    {% endif %}
+    {% endif %}
+  </div>
+</div>
