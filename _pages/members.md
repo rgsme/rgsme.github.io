@@ -19,7 +19,8 @@ nav_rank: 2
     <div class="card {% if member.inline == false %}hoverable{% endif %}">
         <div class="row no-gutters">
             <div class="col-sm-4 col-md-3">
-                <img src="{{ '/assets/img/profiles/' | append: member.profile.image | relative_url }}" class="card-img img-fluid" alt="{{ member.profile.name }}" />
+                {% assign path ='/assets/img/profiles/' | append: member.profile.image %}
+                {% include image.html path=path alt=member.profile.name class="card-img img-fluid" %}
             </div>
             <div class="team col-sm-8 col-md-9">
                 <div class="card-body">
