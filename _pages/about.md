@@ -21,6 +21,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
     include card.html 
     path="/assets/img/pexels-alexander-dummer.jpg" 
     title="SME Lab" 
+    alt="Measurement Equipment"
     text="lorem ipsum" 
     btntext="Check it out" 
     btnurl="#!" 
@@ -31,6 +32,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
     path="/assets/img/glasses-dan-dimmock.jpg"
     figureright=true
     title="Available Thesis Topics"
+    alt="Thesis with Glasses"
     text="lorem ipsum" 
     btntext="Check it out" 
     btnurl="#!"
