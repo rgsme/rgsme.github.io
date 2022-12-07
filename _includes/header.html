@@ -3,7 +3,7 @@
   <nav id="navbar" class="navbar navbar-light navbar-expand-sm mask-custom {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}">
     <div class="container px-md-3">
       <a class="navbar-brand mt-2 mt-lg-0" href="{{ '/' | relative_url }}">
-        {% include image.html path='/assets/img/sme-logo-notext.png' alt="SME Logo" height="40" loading="lazy" %}
+        {% include image.html path='/assets/img/sme-logo-navbar.png' alt="SME Logo" height="40" loading="lazy" %}
         <!-- <img src="{{ '/assets/img/sme-logo-notext.png' | relative_url }}" height="40" alt="SME Logo" loading="lazy" /> -->
       </a>
       <!-- Navbar Toggle -->
@@ -13,7 +13,7 @@
       </button>
 
       <div class="collapse navbar-collapse text-right" id="navbarSupportedContent">
-        <ul class="navbar-nav ml-auto flex-nowrap">
+        <ul class="navbar-nav ms-auto flex-nowrap">
           {%- for page in site.pages -%}
           {% if page.permalink == '/' %}
           {% assign about_title = page.title %}
