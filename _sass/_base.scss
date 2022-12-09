@@ -120,7 +120,6 @@ blockquote {
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
 
     p {
       display: inline-block;
@@ -129,11 +128,11 @@ blockquote {
   }
 }
 
-.profile.float-right {
+.profile.float-end {
   margin-left: 1rem;
 }
 
-.profile.float-left {
+.profile.float-start {
   margin-right: 1rem;
 }
 
@@ -171,7 +170,7 @@ blockquote {
 }
 
 .navbar {
-  box-shadow: none;
+  box-shadow: 0 2px 14px 0 rgba(0, 0, 0, .25), 0 3px 10px 12px rgba(0, 0, 0, 0.1);
   border-bottom: 1px solid var(--global-divider-color);
   backdrop-filter: blur(5px);
   background: linear-gradient(to right, rgba(179,193,255,0.75), rgba(244,47,47,0.6))
@@ -309,7 +308,7 @@ blockquote {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 3rem;
 
     a {
       i::before {
@@ -761,11 +760,11 @@ progress {
   position: fixed;
   left: 0;
   top: 56px;
-  z-index: 10;
+  z-index: 1100;
 
   /* Dimensions */
   width: 100%;
-  height: 3px;
+  height: 2px;
 
   /* Reset the appearance */
   -webkit-appearance: none;
@@ -800,7 +799,7 @@ progress::-moz-progress-bar {
   position: fixed;
   top: 56px;
   left: 0;
-  height: 5px;
+  height: 3px;
   display: block;
 }
 
