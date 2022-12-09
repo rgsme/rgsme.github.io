@@ -1,10 +1,20 @@
 ---
-layout: page
+layout: about
 title: EnerMan
 description: ENERgy-efficient manufacturing system MANagement
 img: /assets/img/projects/enerman-logo.png
 importance: 1
 category: active
+
+project:
+    acronym: EnerMan
+    name: ENERgy-efficient manufacturing system MANagement
+    funding_agency: European Comission
+    funding_track: H2020
+    start_date: Jan 2021
+    end_date: Dec 2023
+    image: enerman-logo.png
+    website: https://enerman-h2020.eu/
 ---
 
 ## Project description
@@ -29,7 +39,5 @@ In ENERMAN, we include a training mechanism with suggested personnel good practi
 Current and predicted energy consumption/sustainability trends on specific assets of the factory are collected and visualized in a Virtual, eXtended reality model of the factory to enhance the situational energy awareness of the factory personnel.
 
 ## Further Reading
-
-[Project Homepage](https://enerman-h2020.eu/)
 
 [Project Details](https://cordis.europa.eu/project/id/958478)

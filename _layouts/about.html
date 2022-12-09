@@ -18,7 +18,8 @@ layout: default
     <div class="profile float-{% if page.profile.align == 'left' %}start{% else %}end{% endif %}">
       {% if page.profile.image %}
         {% if page.profile.href %}<a href="{{ page.profile.href | relative_url }}">{% endif %}
-          <img class="img-fluid{% assign ext = page.profile.image | slice: -4, 4 %}{% if ext != '.svg' %} z-depth-1 rounded{% endif %}" src="{{ page.profile.image | prepend: '/assets/img/profiles/' | relative_url }}" alt="{{ page.profile.name }}">
+          {% assign path ='/assets/img/profiles/' | append: page.profile.image %}
+          {% include image.html path=path alt=page.profile.name class="z-depth-1 rounded-9 border border-5" %}
         {% if page.profile.href %}</a>{% endif %}
       {% endif %}
 
@@ -40,6 +41,57 @@ layout: default
         </div>
       {% endif %}
     </div>
+    {% endif %}
+
+    {% if page.project %}
+    <div class="profile float-{% if page.profile.align == 'left' %}start{% else %}end{% endif %}">
+      {% if page.project.image %}
+          {% assign path ='/assets/img/projects/' | append: page.project.image %}
+          {% include image.html path=path alt=page.project.name class="z-depth-1 rounded-9 border border-5" %}
+      {% endif %}
+
+        <div class="address">
+          <table class="table-sm borderless">
+            <tbody>
+              <tr>
+                <th scope="row">Acronym</th>
+                <td>{{ page.project.acronym }}</td>
+              </tr>
+              {% if page.project.name %}
+              <tr>
+                <th scope="row">Name</th>
+                <td>{{ page.project.name }}</td>
+              </tr>
+              {% endif %}
+              {% if page.project.funding_agency %}
+              <tr>
+                <th scope="row">Agency</th>
+                <td>{{ page.project.funding_agency }}</td>
+              </tr>
+              {% endif %}
+              {% if page.project.funding_track %}
+              <tr>
+                <th scope="row">Track</th>
+                <td>{{ page.project.funding_track }}</td>
+              </tr>
+              {% endif %}
+              {% if page.project.start_date %}
+              <tr>
+                <th scope="row">Timespan</th>
+                <td>{{ page.project.start_date }} - {% if page.project.end_date %} {{ page.project.end_date }}{% endif %}</td>
+              </tr>
+              {% endif %}
+              {% if page.project.website %}
+              <tr>
+                <th scope="row">Website</th>
+                <td><a href="{{ page.project.website }}" target="_blank"><i class="fas fa-globe"></i> {{ page.project.website }}</a></td>
+              </tr>
+              {% endif %}
+            </tbody>
+          </table>
+        </div>
+    </div>
+
     {% endif %}
 
     <div class="clearfix">{{ content }}</div>
