@@ -2,11 +2,6 @@
 group: Faculty
 group_rank: 1
 
-degree_pre: FH-Prof. DI Dr.
-first_name: Mario
-last_name: Jungwirth
-degree_post:
-
 title: Mario Jungwirth
 subtitle: Profile of Prof. Dr. Mario Jungwirth, Deputy Head of the Research Group.
 publications: "author^=*Jungwirth"
@@ -14,6 +9,7 @@ publications: "author^=*Jungwirth"
 teaser: >
   I’m a Professor at the University of Applied Sciences Upper Austria.
 profile:
+  name: FH-Prof. DI Dr. Mario Jungwirth
   position: Deputy Head of the Research Group
   align: right
   image: jungwirth.jpg

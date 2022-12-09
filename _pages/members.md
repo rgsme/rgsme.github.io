@@ -25,7 +25,7 @@ nav_rank: 2
             <div class="team col-sm-8 col-md-9">
                 <div class="card-body">
                     {% if member.inline == false %}<a href="{{ member.url | relative_url }}">{% endif %}
-                    <h5 class="card-title">{{ member.degree_pre }} {{ member.first_name }} {{ member.last_name }} {{ member.degree_post }}</h5>
+                    <h5 class="card-title">{{ member.profile.name }}</h5>
                     {% if member.profile.position %}<h6 class="card-subtitle mb-2 text-muted">{{ member.profile.position }}</h6>{% endif %}
                     <p class="card-text">
                         {{ member.teaser }}

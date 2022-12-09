@@ -2,11 +2,6 @@
 group: Faculty
 group_rank: 1
 
-degree_pre: FH-Prof. Priv.-Doz. DI Dr.
-first_name: Peter
-last_name: Hehenberger
-degree_post:
-
 title: Peter Hehenberger
 subtitle: Profile of Prof. Dr. Peter Hehenberger, Head of the Research Group Smart Mechatronics Engineering.
 publications: "author^=*Hehenberger"

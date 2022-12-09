@@ -2,12 +2,6 @@
 group: Doctoral Researcher
 group_rank: 2
 
-title:
-degree_pre:
-first_name: Simon
-last_name: Merschak
-degree_post: BSc MSc
-
 title: Simon Merschak
 subtitle: Profile of Simon Merschak
 publications: "author^=*Merschak"
@@ -15,6 +9,7 @@ publications: "author^=*Merschak"
 teaser: >
   I’m a Research Associate and Doctoral Researcher at the University of Applied Sciences Upper Austria.
 profile:
+  name: Simon Merschak BSc MSc
   position: Research Group Member
   align: right
   image: merschak.jpg

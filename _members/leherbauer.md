@@ -2,16 +2,14 @@
 group: Researcher
 group_rank: 3
 
-degree_pre: Dipl.-Ing.
-first_name: Dominik
-last_name: Leherbauer
-degree_post:
+title: Dominik Leherbauer
 subtitle: Profile of Dipl.-Ing. Dominik Leherbauer
 publications: "author^=*Leherbauer"
 
 teaser: >
   I’m a Research Associate at the University of Applied Sciences Upper Austria.
 profile:
+  name: Dipl.-Ing. Dominik Leherbauer
   position: Research Group Member
   align: right
   image: leherbauer.jpg
