@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 news: true # includes a list of news items
-intro: false
+intro: true
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
@@ -16,24 +16,23 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
-
-{% 
-    include card.html 
-    path="/assets/img/pexels-alexander-dummer.jpg" 
-    title="SME Lab" 
+{%
+    include card.html
+    path="/assets/img/pexels-alexander-dummer.jpg"
+    title="SME Lab"
     alt="Measurement Equipment"
-    text="lorem ipsum" 
-    btntext="Check it out" 
-    btnurl="#!" 
+    text="lorem ipsum"
+    btntext="Check it out"
+    btnurl="#!"
 %}
 
-{% 
+{%
     include card.html
     path="/assets/img/glasses-dan-dimmock.jpg"
     figureright=true
     title="Available Thesis Topics"
     alt="Thesis with Glasses"
-    text="lorem ipsum" 
-    btntext="Check it out" 
+    text="lorem ipsum"
+    btntext="Check it out"
     btnurl="#!"
 %}
