@@ -10,11 +10,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+The Smart Mechatronics Engineering research group is dedicated to advancing the field of mechatronics and manufacturing systems through cutting-edge research and development. Our focus is on the digital twin of mechatronic and manufacturing systems, which involves creating virtual representations of physical systems for the purpose of simulation, analysis, and control.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In addition to digital twin technology, we also study energy usage in the manufacturing industry and its impact on the environment. Through our research, we aim to identify and implement ways to reduce energy consumption in manufacturing processes while maintaining efficiency and productivity.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Another area of focus for our group is life cycle assessment and circular economy. We examine the environmental impact of products and manufacturing processes throughout their entire life cycle, from raw material extraction to disposal or recycling. Our goal is to promote sustainable manufacturing practices and circular economy models that minimize waste and conserve resources.
+
+Our research group is composed of experts in various fields, including mechatronics, manufacturing, and sustainable engineering. We collaborate with leading industry partners and academic institutions to conduct research and develop new technologies that can be applied in real-world scenarios.
+
+The Smart Mechatronics Engineering research group is committed to pushing the boundaries of what is possible in the field of mechatronics and manufacturing, and we are constantly seeking new ways to improve efficiency, reduce energy consumption, and promote sustainability.
 
 
 {% 
