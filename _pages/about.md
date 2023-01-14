@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 news: true # includes a list of news items
-intro: false
+intro: true
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
@@ -20,24 +20,23 @@ Our research group is composed of experts in various fields, including mechatron
 
 The Smart Mechatronics Engineering research group is committed to pushing the boundaries of what is possible in the field of mechatronics and manufacturing, and we are constantly seeking new ways to improve efficiency, reduce energy consumption, and promote sustainability.
 
-
-{% 
-    include card.html 
-    path="/assets/img/pexels-alexander-dummer.jpg" 
-    title="SME Lab" 
+{%
+    include card.html
+    path="/assets/img/pexels-alexander-dummer.jpg"
+    title="SME Lab"
     alt="Measurement Equipment"
-    text="lorem ipsum" 
-    btntext="Check it out" 
-    btnurl="#!" 
+    text="lorem ipsum"
+    btntext="Check it out"
+    btnurl="#!"
 %}
 
-{% 
+{%
     include card.html
     path="/assets/img/glasses-dan-dimmock.jpg"
     figureright=true
     title="Available Thesis Topics"
     alt="Thesis with Glasses"
-    text="lorem ipsum" 
-    btntext="Check it out" 
+    text="lorem ipsum"
+    btntext="Check it out"
     btnurl="#!"
 %}
