@@ -1,6 +1,6 @@
 ---
-group: Doctoral Researcher
-group_rank: 2
+group: Researcher
+group_rank: 3
 
 title: Simon Merschak
 subtitle: Profile of Simon Merschak
