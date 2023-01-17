@@ -195,6 +195,7 @@ blockquote {
 
 .dropdown-item {
   color: var(--global-text-color);
+  border-radius: 10px;
 
   &:hover {
     color: var(--global-hover-color);
@@ -760,7 +761,7 @@ progress {
   position: fixed;
   left: 0;
   top: 56px;
-  z-index: 1100;
+  z-index: 1000;
 
   /* Dimensions */
   width: 100%;
