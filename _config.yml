@@ -112,7 +112,9 @@ collections:
     permalink: /news/:path/
   projects:
     output: true
-    permalink: /projects/:path/
+  partners:
+    output: true
+    permalink: /partners/:path/
   members:
     output: true
     permalink: /members/:path/
