@@ -15,6 +15,10 @@ profile:
   image: leherbauer.jpg
   image_circular: false
   email: dominik.leherbauer@fh-wels.at
+  phone:
+  twitter:
+  github:
+  website:
   orcid: 0000-0002-4330-0981
   address: >
     University of Applied Sciences Upper Austria<br />

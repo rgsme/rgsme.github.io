@@ -14,6 +14,10 @@ profile:
   align: right
   image: jungwirth.jpg
   email: mario.jungwirth@fh-wels.at
+  phone:
+  twitter:
+  github:
+  website:
   orcid: 0000-0002-1652-8745
   address: >
     University of Applied Sciences Upper Austria<br />

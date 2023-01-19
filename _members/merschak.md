@@ -14,6 +14,10 @@ profile:
   align: right
   image: merschak.jpg
   email: simon.merschak@fh-wels.at
+  phone:
+  twitter:
+  github:
+  website:
   orcid: 0000-0001-8903-6146
   address: >
     University of Applied Sciences Upper Austria<br />

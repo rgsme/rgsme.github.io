@@ -14,6 +14,10 @@ profile:
   align: right
   image: hehenberger.jpg
   email: peter.hehenberger@fh-wels.at
+  phone:
+  twitter:
+  github:
+  website:
   orcid: 0000-0001-5104-6525
   address: >
     University of Applied Sciences Upper Austria<br />
