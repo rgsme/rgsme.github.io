@@ -2,12 +2,12 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Latest research group publications.
-years: [2022,2020,2018]
+description:
+years: [2023,2022,2021,2020]
 nav: true
 nav_order: 4
 ---
-This are the most recenct publications from our research group. The full list of publications can be found [here](https://pure.fh-ooe.at/de/organisations/smart-mechatronics-engineering/publications/).
+This are the most recent publications from our research group. The full list of publications can be found [here](https://pure.fh-ooe.at/de/organisations/smart-mechatronics-engineering/publications/).
 
 ## Papers and Articles
 <!-- _pages/publications.md -->
