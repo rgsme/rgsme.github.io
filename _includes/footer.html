@@ -14,7 +14,7 @@
 <footer class="bottom bg-dark text-white">
   <div class="container text-white my-2">
     <div class="float-start">
-      <img src="{{ '/assets/img/fhooe_logo.png' | relative_url }}" height="60px"/>
+        {%- include image.html path='/assets/img/fhooe_logo.png' alt="FH OOE Logo" height="60px" -%}
     </div>
     <div class="text-white text-center my-2">
     &copy; Copyright {{ site.time | date: '%Y' }} {{ site.title }}. {{
