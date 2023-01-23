@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /members
+permalink: /members/
 title: Members
 description: Members and close collaborators of the group.
 nav: true

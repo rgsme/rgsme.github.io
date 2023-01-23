@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Impressum and Privacy Policy
-permalink: /impressum
+permalink: /impressum/
 
 news: false # includes a list of news items
 intro: false
