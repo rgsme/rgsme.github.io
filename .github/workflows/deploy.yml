@@ -40,3 +40,8 @@ jobs:
       run:  yes | bash bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }}
                     --src ${{ steps.setup.outputs.SRC_BRANCH }} 
                     --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }} 
+    - name: Deploy to defined target
+      run: |
+        git checkout gh-pages
+        ${{secrets.TARGET}}
+        git checkout ${{ steps.setup.outputs.SRC_BRANCH }} 
