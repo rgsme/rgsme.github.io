@@ -48,4 +48,4 @@ I am Mario Jungwirth
 - German
 - English
 
-![](https://www.youtube.com/watch?v=PVX1Uk4EoeE)
+![](https://www.youtube-nocookie.com/watch?v=PVX1Uk4EoeE)
