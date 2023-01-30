@@ -106,6 +106,9 @@ find ./ -name "*.html" -type f -exec sed -i -e "s/youtube.com\/embed/youtube-noc
 # Create `.nojekyll` file (bypass GitHub Pages Jekyll processing)
 touch .nojekyll
 
+# Add Error documents for Apache
+echo "ErrorDocument 404 /404.html" >> .htaccess
+
 # Push to DEPLOY_BRANCH
 git add -fA
 git commit --allow-empty -m "$(git log -1 --pretty=%B) [ci skip]"
