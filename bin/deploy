@@ -100,6 +100,9 @@ find . -maxdepth 1 ! -name '_site' ! -name '.git' ! -name 'CNAME' ! -name '.giti
 mv _site/* .
 rm -R _site/
 
+# Replace youtube embeds with no-cookie variant
+find ./ -name "*.html" -type f -exec sed -i -e "s/youtube.com\/embed/youtube-nocookie.com\/embed/g" {} \;
+
 # Create `.nojekyll` file (bypass GitHub Pages Jekyll processing)
 touch .nojekyll
 
