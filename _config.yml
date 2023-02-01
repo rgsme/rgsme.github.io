@@ -5,7 +5,7 @@
 title: Smart Mechatronics Engineering # the website title
 email: peter.hehenberger@fh-wels.at
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Simple webpage for the Research Group Smart Mechatronics Engineering
+  Stay updated on the activities of the Research Group Smart Mechatronics Engineering
 footer_text: >
 
 keywords: research-group-website, academic-website, portfolio-website, mechatronics, engineering, research # add your own keywords or leave empty
@@ -73,7 +73,7 @@ contact_note: >
 google_analytics: # your Goole Analytics measurement ID (format: G-XXXXXXXXXX)
 panelbear_analytics: 6Nkrs2sp8mr # panelbear analytics site ID (format: XXXXXXXXX)
 
-google_site_verification: # your google-site-verification ID (Google Search Console)
+google_site_verification: Bgp0gzjB9CZWgHKAqJIpYHH3tQ1tcUWUfYWkKsDJgBw # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
