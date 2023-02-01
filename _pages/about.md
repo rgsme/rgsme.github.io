@@ -23,20 +23,20 @@ The Smart Mechatronics Engineering research group is committed to pushing the bo
 {%
     include card.html
     path="/assets/img/pexels-alexander-dummer.jpg"
-    title="SME Lab"
+    title="Projects"
     alt="Measurement Equipment"
-    text="lorem ipsum"
+    text="Explore the cutting-edge work of a renowned research group with our project updates! Discover the details of our ongoing and completed projects, and get a glimpse into the innovative solutions and groundbreaking discoveries we are making. Whether it's developing new technologies, investigating complex issues, or exploring new frontiers, our projects are making a significant impact in various fields. Stay informed and up-to-date on our work - read about our projects now."
     btntext="Check it out"
-    btnurl="#!"
+    btnurl="/projects"
 %}
 
 {%
     include card.html
     path="/assets/img/glasses-dan-dimmock.jpg"
     figureright=true
-    title="Available Thesis Topics"
+    title="Latest Publications"
     alt="Thesis with Glasses"
-    text="lorem ipsum"
+    text="Stay updated on the latest findings and breakthroughs from our research group! Browse through our most recent publications and get insights into the cutting-edge research we're conducting. From technological advancements to in-depth studies on important global issues, our group is dedicated to pushing the boundaries of knowledge."
     btntext="Check it out"
-    btnurl="#!"
+    btnurl="/publications"
 %}
