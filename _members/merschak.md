@@ -7,14 +7,14 @@ subtitle: Profile of Simon Merschak
 publications: "author^=*Merschak"
 
 teaser: >
-  I’m a Research Associate and Doctoral Researcher at the University of Applied Sciences Upper Austria.
+  I’m a Research Associate at the University of Applied Sciences Upper Austria and a PhD Candidate at Graz University of Technology.
 profile:
   name: Simon Merschak BSc MSc
   position: Research Group Member
   align: right
   image: merschak.jpg
   email: simon.merschak@fh-wels.at
-  phone:
+  phone: +43 5 0804 44478
   twitter:
   github:
   website:
@@ -26,4 +26,12 @@ profile:
     4600 Wels, Austria
 ---
 
-I am interested in research.
+Simon Merschak is Research Associate at the School of Engineering, University of Applied Sciences Upper Austria, Campus Wels, Austria.
+Currently he is finishing his PhD Thesis in the field of "Life Cycle Assessment" at Graz University of Technology.
+
+He finished his university degree MSc in Automation Engineering at the University of Applied Sciences Upper Austria, Campus Wels in 2016.
+His core competencies cover “Sustainable Product Development”, "Life Cycle Assessment" and “Numeric Simulation of Mechatronic Components” and include the optimization and metrological verification of mechatronic systems. 
+
+He attended international conferences in Austria, Spain, France the Netherlands and Japan and published in several peer-reviewed journals and conference proceedings.
+
+The supervision and support of scientific student projects, bachelor and master thesis is also part of his work.
