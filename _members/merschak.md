@@ -17,7 +17,7 @@ profile:
   phone: +43 5 0804 44478
   twitter:
   github:
-  website:
+  website: https://pure.fh-ooe.at/de/persons/simon-merschak
   orcid: 0000-0001-8903-6146
   address: >
     University of Applied Sciences Upper Austria<br />
