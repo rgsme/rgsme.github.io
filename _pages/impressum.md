@@ -8,6 +8,7 @@ intro: false
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
 ## Privacy Policy
 
 We are committed to protecting the privacy of all visitors to our website. This policy explains our practices regarding the collection, use, and disclosure of information that we collect through our website.
@@ -26,7 +27,7 @@ We do not share or disclose any information collected through Panelbear to any t
 
 #### Data Storage
 
-All information collected through Panelbear is anonymized and stored in EU data centers. GitHub may also collect additional data such as IP addresses, browser type and version, pages visited and time spent on the website. GitHub has implemented appropriate technical and organizational measures to ensure the security of the data.
+All information collected through Panelbear is anonymized and stored in EU data centers. The hosting service at FH OÖ may also collect additional data such as IP addresses, browser type and version, pages visited and time spent on the website. FH OÖ has implemented appropriate technical and organizational measures to ensure the security of the data.
 
 #### Changes to this Privacy Policy
 
@@ -43,7 +44,6 @@ If you have any questions or concerns about this privacy policy or our privacy p
 | Fax: +43 5 0804 11900 |
 | E-Mail: research@fh-ooe.at |
 | UID-Nr.: ATU 57300236 |
-
 
 We are committed to protecting your privacy and ensuring that your experience on our website is safe and secure.
 
