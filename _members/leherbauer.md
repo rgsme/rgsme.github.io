@@ -27,14 +27,45 @@ profile:
     4600 Wels, Austria
 ---
 
-I am interested in research.
+Dominik Leherbauer is a researcher with a passion for finding sustainable and efficient solutions in the energy field.
+His expertise in energy efficiency and demand response, combined with their education and qualifications, make him a valuable asset to any team working towards a better future in the industry.
+With his strong background in research, proficiency in languages, and ability to work effectively in diverse environments, Dominik is well-equipped to tackle complex challenges in the energy field and drive positive change in the industry.
 
-## The standard Lorem Ipsum passage, used since the 1500s
+## Expertise
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+- Energy Efficiency
+  - Improving energy efficiency in industrial context
+    - Identifying and analyzing energy consumption patterns
+    - Developing and implementing energy-saving measures
+  - Modelling and simulation to support decision-making
+    - Creating computer models to simulate energy consumption and evaluate the impact of energy-saving measures
+- Demand Response
+  - Implementing demand response strategies in industrial setting
+    - Coordinating with energy providers to reduce energy consumption during peak hours
+    - Implementing energy-saving measures during peak hours
+- Computer Science
+  - Competent understanding of computer science topics
+  - Knowledge of programming languages and algorithms
+  - Familiarity with Linux and UNIX-based systems
 
-## Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
+## Current Project
 
-"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+- EU project: [EnerMan]({{ '/projects/enerman' | relative_url }})
+  - Aim: Find innovative solutions to improve energy efficiency in the industrial sector
+  - Key responsibilities:
+    - Conducting research and data analysis to identify areas for improvement
+    - Developing and testing new energy-saving measures
+    - Collaborating with team members and stakeholders to achieve project goals
+
+## Skills and Qualifications
+
+- Strong background in energy research
+  - Extensive knowledge of energy efficiency and related fields
+  - Experience conducting research and analyzing data
+- Awards for achievements in the field
+  - Recognition for contributions to the energy efficiency field
+- Ability to work effectively in a multi-lingual and multicultural environment
+  - Proficient in German and English
+  - Experience working in diverse teams and cultural settings
 
 ![](https://www.youtube-nocookie.com/watch?v=dv_5Z1kX6Pk?width=800)
