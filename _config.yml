@@ -36,7 +36,9 @@ repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
 rss_icon: true
-
+feed:
+  collections:
+    - news
 # -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
