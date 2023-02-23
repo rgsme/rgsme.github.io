@@ -8,11 +8,11 @@
     gtag('config', '{{ site.google_analytics }}');
   </script>
 {%- endif -%}
-{%- if site.enable_panelbear_analytics -%}
-  <!-- Panelbear Analytics - We respect your privacy -->
-  <script async src="https://cdn.panelbear.com/analytics.js?site={{site.panelbear_analytics | strip}}"></script>
+{%- if site.enable_insights_analytics -%}
+  <!-- Insights Analytics - We respect your privacy -->
+  <script src="https://getinsights.io/js/insights.js"></script>
   <script>
-    window.panelbear = window.panelbear || function() { (window.panelbear.q = window.panelbear.q || []).push(arguments); };
-    panelbear('config', { site: '{{site.panelbear_analytics}}' });
+    insights.init('{{site.insights_analytics | strip}}');
+    insights.trackPages();
   </script>
 {%- endif -%}
