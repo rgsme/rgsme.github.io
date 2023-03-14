@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description: Projects which we are leading or involved in.
 nav: true
-nav_order: 3
+nav_order: 5
 display_categories: [active]
 horizontal: false
 ---

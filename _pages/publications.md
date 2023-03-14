@@ -5,7 +5,7 @@ title: Publications
 description:
 years: [2023,2022,2021,2020]
 nav: true
-nav_order: 4
+nav_order: 6
 ---
 This are the most recent publications from our research group. The full list of publications can be found [here](https://pure.fh-ooe.at/de/organisations/smart-mechatronics-engineering/publications/).
 
