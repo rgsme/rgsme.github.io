@@ -28,7 +28,7 @@ profile:
 ---
 
 Dominik Leherbauer is a researcher with a passion for finding sustainable and efficient solutions in the energy field.
-His expertise in energy efficiency and demand response, combined with their education and qualifications, make him a valuable asset to any team working towards a better future in the industry.
+His expertise in demand-side management, combined with his education and qualifications, make him a valuable asset to any team working towards a better future in the industry.
 With his strong background in research, proficiency in languages, and ability to work effectively in diverse environments, Dominik is well-equipped to tackle complex challenges in the energy field and drive positive change in the industry.
 
 ## Expertise
