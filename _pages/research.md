@@ -29,14 +29,8 @@ The research group also employs **sustainable practices** in the development of 
 
 The research group is committed to adopting **digital transformation** technologies to improve their processes and overall efficiency. They use **digital twins** to simulate and optimize the performance of their mechatronic systems. Digital twins are virtual replicas of physical systems that enable the group to test and refine their designs without the need for physical prototypes. This approach reduces costs and time to market while improving overall product quality.
 
-The research group also uses **advanced analytics** to improve their processes. For example, they use **machine learning algorithms** to analyze data from their systems and identify areas where they can optimize their performance. They also use **real-time data analytics** to monitor the performance of their systems and detect anomalies or failures.
-
 ## Modelling and Simulation of Mechatronic Systems
 
 Modelling and simulation are core competencies of the research group. They use various techniques, such as **finite element analysis (FEA)**, **electronics simulations**, and **computational fluid dynamics (CFD)**, to predict the behavior of mechatronic systems under various operating conditions. These techniques enable them to optimize the performance of their systems, reduce development costs, and accelerate time to market.
 
 The research group also uses **virtual reality (VR)** and **augmented reality (AR)** to create interactive simulations and visualize complex mechatronic systems. VR enables them to create immersive simulations that allow users to interact with the system in a realistic and engaging way. AR is used to overlay digital information onto the physical world, enabling users to visualize and interact with the system in real-time.
-
-## Conclusion
-
-In conclusion, the research group's competencies in engineering processes, sustainability in mechatronic system development, digital transformation, and modelling and simulation make them a valuable partner for businesses

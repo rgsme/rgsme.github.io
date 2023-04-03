@@ -13,10 +13,6 @@ social: false # includes social icons at the bottom of the page
 
 We offer a range of courses for undergraduate and graduate students in various disciplines. We strive to provide a comprehensive education that equips our students with the knowledge, skills, and hands-on experience necessary to excel in their careers.
 
-## Control Systems Engineering
-
-Our courses in control systems engineering cover the fundamental principles of feedback control systems and their application in a wide range of industries, including aerospace, automotive, and manufacturing. Students learn how to design, model, and analyze control systems, and how to use simulation tools to evaluate system performance. Practical projects provide students with opportunities to apply these concepts to real-world problems.
-
 ## Mechanical Engineering
 
 Our courses in mechanical engineering cover the fundamental principles of mechanics, thermodynamics, and materials science, and their application in the design and analysis of mechanical systems. Students learn how to design and analyze mechanical components and systems, and how to use computer aided design (CAD) tools to create and evaluate designs. Practical projects provide students with opportunities to apply these concepts to real-world problems.
