@@ -188,6 +188,10 @@ defaults:
     values:
       inline: false
       layout: "about"
+  - scope:
+      path: "_partners"
+    values:
+      sitemap: false
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier

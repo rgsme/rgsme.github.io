@@ -5,7 +5,7 @@ permalink: /partners/
 description: Partners which we are collaborating with.
 nav: true
 nav_order: 6
-display_categories: [Scientific, Industrial]
+display_categories: [Scientific, Industrial, Internal]
 horizontal: false
 ---
 
