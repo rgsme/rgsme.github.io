@@ -12,7 +12,7 @@ profile:
   name: Johanna Casata BSc
   position: Research Associate
   align: right
-  image: placeholder.jpg
+  image: casata.jpg
   image_circular: false
   email: johanna.casata@fh-wels.at
   phone:
