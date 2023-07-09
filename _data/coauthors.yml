@@ -1,15 +1,15 @@
 "Hehenberger":
   - firstname: ["Peter", "P."]
-    url: /members/hehenberger
+    url: /members/hehenberger/
 "Jungwirth":
   - firstname: ["Mario", "M."]
-    url: /members/jungwirth
+    url: /members/jungwirth/
 "Merschak":
   - firstname: ["Simon", "S."]
-    url: /members/merschak
+    url: /members/merschak/
 "Leherbauer":
   - firstname: ["Dominik", "D."]
-    url: /members/leherbauer
-    "Casata":
+    url: /members/leherbauer/
+"Casata":
   - firstname: ["Johanna", "C."]
-    url: /members/casata
+    url: /members/casata/
