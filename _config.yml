@@ -316,7 +316,7 @@ imagemagick:
 # -----------------------------------------------------------------------------
 
 enable_google_analytics: false # enables google analytics
-enable_insights_analytics: false # enables getinsight analytics
+enable_insights_analytics: true # enables getinsight analytics
 enable_google_verification: true # enables google site verification
 enable_bing_verification: false # enables bing site verification
 enable_masonry: true # enables automatic project cards arangement
