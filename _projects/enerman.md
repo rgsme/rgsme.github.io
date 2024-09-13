@@ -4,7 +4,7 @@ title: EnerMan
 description: ENERgy-efficient manufacturing system MANagement
 img: /assets/img/projects/enerman-logo.png
 importance: 1
-category: active
+category: completed
 
 project:
     acronym: EnerMan

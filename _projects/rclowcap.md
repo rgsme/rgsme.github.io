@@ -4,7 +4,7 @@ title: RC-LowCAP # Acronym
 description: Research Centre for Low Carbon Special Powertrain # Full Project Title
 img: /assets/img/projects/rclowcap-logo.png # Place figure in folder and update link
 importance: 1
-category: active
+category: completed
 
 project: # Metadata shown on project page
     acronym: RC-LowCAP
